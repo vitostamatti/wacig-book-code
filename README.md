@@ -1,1 +1,1 @@
-## Code for the book Writing a Compiler in Goelang
+## Code for the book Writing a Compiler in Golang
